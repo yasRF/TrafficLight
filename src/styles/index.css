@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.rojo{
+    background-color: red;
+}
+.verde{
+    background-color: darkgreen;
+}
+.amarillo{
+    background-color: yellow;
+}
+button{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+      }
