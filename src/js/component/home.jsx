@@ -5,7 +5,7 @@ import "../../styles/index.css"
 import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
-const Home = (color2) => {
+const Home = (color1) => {
 	const [color, setColor]=useState();
 
 		const cambiaRojo=()=>{
